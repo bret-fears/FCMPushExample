@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCMPushExample</string>
+    <string name="button_text">Execute!</string>
+    <string name="message">Hi!</string>
+</resources>

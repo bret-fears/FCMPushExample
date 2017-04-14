@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "36091682330",
+    "project_id": "firebase-gcmpushexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36091682330:android:5999b8c251092254",
+        "android_client_info": {
+          "package_name": "com.willowtreeapps.gcmpushexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-dCg6Gh7BbtzxCYCHJksTEInDJ90tFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
